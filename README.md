@@ -1,7 +1,3 @@
-Certainly! Here's the README rewritten without emojis:
-
----
-
 # Oil Price Change Point Analysis & Statistical Modeling
 
 This project presents an in-depth analysis of Brent crude oil prices, focusing on the influence of major political and economic events. It integrates statistical modeling, machine learning, and interactive dashboards to uncover actionable insights for investors, policymakers, and energy sector stakeholders.
